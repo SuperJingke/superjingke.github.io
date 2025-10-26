@@ -299,12 +299,7 @@ select {
   text-transform: none;
 }
 
-button,
-html [type="button"],
-[type="reset"],
-[type="submit"] {
-  -webkit-appearance: button;
-}
+
 
 button::-moz-focus-inner,
 [type="button"]::-moz-focus-inner,
@@ -320,12 +315,7 @@ input[type="checkbox"] {
   padding: 0;
 }
 
-input[type="date"],
-input[type="time"],
-input[type="datetime-local"],
-input[type="month"] {
-  -webkit-appearance: listbox;
-}
+
 
 textarea {
   overflow: auto;
@@ -360,10 +350,7 @@ progress {
   height: auto;
 }
 
-[type="search"] {
-  outline-offset: -2px;
-  -webkit-appearance: none;
-}
+
 
 [type="search"]::-webkit-search-cancel-button,
 [type="search"]::-webkit-search-decoration {
@@ -4859,12 +4846,7 @@ tbody.collapse.show {
   cursor: pointer;
 }
 
-button.close {
-  padding: 0;
-  background-color: transparent;
-  border: 0;
-  -webkit-appearance: none;
-}
+
 
 .modal-open {
   overflow: hidden;
