@@ -43,7 +43,7 @@ const Works = () => {
           </div>
           <div className="col-lg-4 grid-item">
             <img className="img-fluid" src="/static/picture/8.jpg" alt="Firework" />
-            <h4>Firework in Xiangyang</h4>
+            <h4>Firework</h4>
           </div>
           <div className="col-lg-4 grid-item">
             <img className="img-fluid" src="/static/picture/9.jpg" alt="River-side" />
@@ -51,7 +51,7 @@ const Works = () => {
           </div>
           <div className="col-lg-4 grid-item">
             <img className="img-fluid" src="/static/picture/10.jpg" alt="dad's bike" />
-            <h4>Biking through Xiangyang</h4>
+            <h4>Biking by the river</h4>
           </div>
           <div className="col-lg-4 grid-item">
             <img className="img-fluid" src="/static/picture/11.jpg" alt="Gondola Lift" />

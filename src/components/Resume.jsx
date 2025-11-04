@@ -64,7 +64,7 @@ const Resume = () => (
               </div>
 
               <div className="resume-item">
-                <div className="date">June 2018 - Present</div>
+                <div className="date">June 2018 - November 2025</div>
                 <h5>Volunteering Website Maintenance Helper</h5>
                 <div className="company">
                   <i className="fa fa-building fa-fw"></i> Mississauga Carmel Mandarin Alliance Church
