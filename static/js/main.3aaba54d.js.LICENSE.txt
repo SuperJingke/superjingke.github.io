@@ -1,3 +1,10 @@
+/*!
+ * particles.js v2.0.0
+ * Vincent Garreau
+ * http://vincentgarreau.com/particles.js/
+ * MIT license
+ */
+
 /**
  * @license React
  * react-dom-client.production.js
