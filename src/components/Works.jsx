@@ -6,11 +6,23 @@ const Works = () => {
   return (
     <section className="works-area section-padding" id="works">
       <div className="section-title">
-        <h3>Portfolio</h3>
+        <h3>Gallery</h3>
         <span></span>
       </div>
       <div className="container">
         <div className="row">
+          <div className="col-lg-4 grid-item">
+            <img className="img-fluid" src="/static/picture/16.jpg" alt="Snooker" />
+            <h4>Time for Snooker</h4>
+          </div>
+          <div className="col-lg-4 grid-item">
+            <img className="img-fluid" src="/static/picture/15.jpg" alt="Relaxing lunch time" />
+            <h4>Relaxing Lunch</h4>
+          </div>
+          <div className="col-lg-4 grid-item">
+            <img className="img-fluid" src="/static/picture/14.jpg" alt="Sashimi Platte" />
+            <h4>Sashimi Nigiri Platte</h4>
+          </div>
           <div className="col-lg-4 grid-item">
             <img className="img-fluid" src="/static/picture/3.jpg" alt="Boat Trip" />
             <h4>The Boat Trip</h4>
