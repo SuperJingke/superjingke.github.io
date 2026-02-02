@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import "../styles/hero.css";
-import particlesJS from "particles.js";
+import particlesJS from "./particles";
 
 
 const Hero = () => {
