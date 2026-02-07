@@ -13,15 +13,15 @@ const Works = () => {
         <div className="row">
           <div className="col-lg-4 grid-item">
             <img className="img-fluid" src="/static/picture/16.jpg" alt="Snooker" />
-            <h4>Snooker Games</h4>
+            <h4>Billiard & Chill</h4>
           </div>
           <div className="col-lg-4 grid-item">
             <img className="img-fluid" src="/static/picture/14.jpg" alt="Sashimi Platte" />
-            <h4>Sashimi Nigiri Platte</h4>
+            <h4>Fresh Sashimi Selection</h4>
           </div>
           <div className="col-lg-4 grid-item">
             <img className="img-fluid" src="/static/picture/15.jpg" alt="Relaxing lunch time" />
-            <h4>Lunch Time</h4>
+            <h4>Cozy Lunch</h4>
           </div>
           <div className="col-lg-4 grid-item">
             <img className="img-fluid" src="/static/picture/3.jpg" alt="Boat Trip" />
