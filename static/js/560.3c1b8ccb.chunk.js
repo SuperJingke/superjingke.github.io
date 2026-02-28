@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_portfolio=self.webpackChunkmy_portfolio||[]).push([[560],{560:(e,s,r)=>{r.r(s),r.d(s,{default:()=>o});r(43);var t=r(579);const o=()=>(0,t.jsx)("footer",{className:"footer-area",children:(0,t.jsx)("div",{className:"container text-center",children:(0,t.jsx)("p",{children:"Copyright \xa9 2026. Design lights up my life."})})})}}]);
+//# sourceMappingURL=560.3c1b8ccb.chunk.js.map
