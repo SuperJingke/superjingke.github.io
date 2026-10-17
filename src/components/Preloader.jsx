@@ -4,7 +4,7 @@ import "../styles/preloader.css";
 const Preloader = () => (
   <div className="preloader-area">
     <div className="loader">
-      <p className="loader-msg">🌿Loading...</p>
+      <p className="loader-msg">🌿Initializing...</p>
       <div className="loader-inner"></div>
     </div>
   </div>

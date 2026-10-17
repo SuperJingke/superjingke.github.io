@@ -12,17 +12,16 @@ const Works = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-4 grid-item">
-            <img className="img-fluid" src="/static/picture/22.jpg" alt="Aboretum at Guelph University" />
-            <h4>Find Peace in Aboretum</h4>
+            <img className="img-fluid" src="/static/picture/20.jpg" alt="Elora Querry" />
+            <h4>A Little Cliffside Escape</h4>
           </div>
           <div className="col-lg-4 grid-item">
             <img className="img-fluid" src="/static/picture/21.jpg" alt="Guelph Lake Conversation Area" />
             <h4>Nature’s Hidden Gem   -   the Scenic Route near the Guelph Lake</h4>
           </div>
-          
           <div className="col-lg-4 grid-item">
-            <img className="img-fluid" src="/static/picture/20.jpg" alt="Elora Querry" />
-            <h4>A Little Cliffside Escape</h4>
+            <img className="img-fluid" src="/static/picture/22.jpg" alt="Aboretum at Guelph University" />
+            <h4>Find Peace in Aboretum</h4>
           </div>
           <div className="col-lg-4 grid-item">
             <img className="img-fluid" src="/static/picture/17.jpg" alt="CNE SkyRide" />
