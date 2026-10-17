@@ -21,7 +21,7 @@ const Resume = () => (
             </div>
 
             <div className="resume-items experience">
-              <div className="resume-item active">
+              <div className="resume-item">
                 <div className="date">February 2025 - August 2025</div>
                 <h5>Web Developer Associate</h5>
                 <div className="company">
@@ -87,16 +87,17 @@ const Resume = () => (
             </div>
 
             <div className="resume-items education">
-              <div className="resume-item">
-                <div className="date">2023 - Present</div>
+              <div className="resume-item active">
+                <div className="date">Current - 2027</div>
                 <h5>University of Guelph</h5>
-                <h6>Computing in Computer Science</h6>
+                <h6>Master of Cybersecurity and Threat Intelligence,</h6>
+                <h6>Computer Science</h6>
                 <div className="company">
                   <i className="fa fa-university fa-fw"></i> CCMPS Department
                 </div>
                 <div className="single-post-text">
-                  <p>- Relevant Coursework: System Modeling and Simulation, Database Management, Software Engineering, NLP, and Computer Vision.</p>
-                  <p>- Key Projects: Using NLP to Identify Foundational Skills, Mobile App (GPT API, Flutter), Financial Portfolio (Java GUI), Discussion Board (Java App), Rental Car System (C), DUART Project (EASY68K), and Robotics Team Project (ROS).</p>
+                  <p><b>Recent coursework:</b> System Modeling and Simulation, Database Management, Software Engineering, NLP, and Computer Vision, Cybersecurity & Defence in Depth, Advanced Cryptography & Cryptanalysis, Privacy & Cybersecurity.</p>
+                  <p><b>Research project:</b> Natural Language Processing to Identify Foundational Skills Mentioned in Co-operative Education Technical specification: Python (v12.9), Word2Vec, BERT, TensorFlow (v0.16.1) and similarity-based NLP Publication: Gatto, Laura; Ali, Muhammad; Liang, Jingke; Joseph, Samuel; Gillis, Daniel, “Transferable Skills Development in University Curricula: Identifying Differences Between STEM and BHASE,” WACE International Research Symposium, Auckland, New Zealand (Nov 2025; Conference: April 2026).</p>
                 </div>
               </div>
 

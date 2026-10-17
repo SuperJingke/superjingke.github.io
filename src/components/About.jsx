@@ -19,10 +19,10 @@ const About = () => (
                 <div className="content">
                   <div className="main">
                     <h4 className="name">Jingke Liang</h4>
-                    <span className="profession">Full-stack Developer, Network Specialist</span>
+                    <span className="profession">Full-stack Developer, SOC Analyst</span>
                     <div><i className="fa fa-map-marker fa-fw"></i> Guelph, ON, Canada</div>
                     <div><i className="fa fa-university fa-fw"></i> Alum @ University of Toronto</div>
-                    <div><i className="fa fa-institution fa-fw"></i> Fanshawe, University of Guelph</div>
+                    <div><i className="fa fa-institution fa-fw"></i> University of Guelph, Fanshawe</div>
                     
                   </div>
                   <div className="footer">
@@ -42,13 +42,13 @@ const About = () => (
                 </div>
                 <div className="content">
                   <div className="main">
-                    <h4 className="text-center mt-3">Profile</h4>
+                    <h4 className="text-center mt-3">Greetings</h4>
                     <span>
-                      Hello! I’m Jingke. Nice to connect with you here!
+                      Hello! I’m Jingke. Nice to connect with you here! I have a strong passion for web development, cybersecurity, and AI technologies.
                     </span>
                     <h4 className="text-center">Experience</h4>
                     <span>
-                    Rebuilding my portfolio since 2020 with modern designs and smarter architecture for engaging, accessible, and AI-visible web experiences.
+                    Rebuilding my portfolio since 2020 with modern and smarter architecture for engaging, accessible, and AI-visible web experiences.
                     </span>
                   </div>
                 </div>
@@ -78,7 +78,7 @@ const About = () => (
           <div className="about-details">
             <span className="subheading">About Me</span>
             <h2 className="mb-4">
-              A Full-stack Developer<br /> & Aspiring Network Engineer<br /> Based in Canada
+              A Full-stack Developer<br /> & Aspiring Cyber Security Specialist<br /> Based in Canada
             </h2>
 
             <div className="skill-ara">
@@ -86,12 +86,15 @@ const About = () => (
                 ["Python", 98],
                 ["React", 96],
                 ["Java", 95],
-                ["Data Analysis", 90],
-                ["LLM Training", 85],
-                ["Website Migration & SEO+GEO", 95],
-                ["UI & UX", 90],
-                ["Business Planning", 88],
-                ["Network Monitoring & Troubleshooting", 80],
+                ["Web Development", 95],
+                ["Git & Version Control", 98],
+                ["AI & LLMs", 90],
+                ["NLP & Machine Learning", 90],
+                ["UI/UX Design", 90],
+                ["Network Security", 82],
+                ["Malware Analysis", 75],
+                ["Cloud Security", 75],
+                ["SEO & Website Migration", 95],
               ].map(([skill, percent]) => (
                 <div className="single-skill" key={skill}>
                   <div className="progress-count d-flex justify-content-between">
@@ -106,7 +109,7 @@ const About = () => (
             </div>
 
             <a
-              href="/static/doc/Jingke_Liang_Resume_2025_Updated.pdf"
+              href="/static/doc/Jingke_Liang_Resume_2026.pdf"
               target="_blank"
               rel="noreferrer"
               className="btn mt-4"
