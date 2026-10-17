@@ -62,8 +62,8 @@ const Hero = () => {
             </div>
           </div>
           <div className="hero-content col-lg-7">
-            <div className="subheading text-uppercase">
-              Hi Nice to meet you <span>:)</span>
+            <div className="subheading text-sentencecase">
+             <span>[ OK ]</span> Nice to meet you, human.
             </div>
             <h1>I'm Jingke</h1>
             <div>

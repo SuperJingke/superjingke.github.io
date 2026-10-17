@@ -78,7 +78,7 @@ const About = () => (
           <div className="about-details">
             <span className="subheading">About Me</span>
             <h2 className="mb-4">
-              A Full-stack Developer<br /> & Aspiring Cyber Security Specialist<br /> Based in Canada
+              A Developer &amp; Security Analyst<br /> Based in Canada
             </h2>
 
             <div className="skill-ara">
@@ -87,14 +87,16 @@ const About = () => (
                 ["React", 96],
                 ["Java", 95],
                 ["Web Development", 95],
-                ["Git & Version Control", 98],
                 ["AI & LLMs", 90],
                 ["NLP & Machine Learning", 90],
                 ["UI/UX Design", 90],
-                ["Network Security", 82],
                 ["Malware Analysis", 75],
                 ["Cloud Security", 75],
                 ["SEO & Website Migration", 95],
+                ["Identity & Access Management (IAM)", 80],
+                ["Multi-Factor Authentication (MFA)", 85],
+                ["Role-Based Access Control (RBAC)", 85],
+                ["Access Control & Identity Governance", 78],
               ].map(([skill, percent]) => (
                 <div className="single-skill" key={skill}>
                   <div className="progress-count d-flex justify-content-between">
