@@ -6,20 +6,20 @@ const Blog = () => {
 
     {
       img: "b12.jpg",
-      title: "PAM Project",
-      date: "Comming Soon",
+      title: "PAM Project (Python, AWS)",
+      date: "In Progress",
       link: "#demo",
     },
     {
       img: "b11.jpg",
-      title: "Thesis Paper on NLP & LLMs",
+      title: "Thesis Paper on NLPs & LLMs",
       date: "March 2026",
       link: "./static/doc/Thesis_Paper.pdf",
     },
 
     {
       img: "b10.jpg",
-      title: "Diving Trip Agent Demo",
+      title: "Trip Agent Demo",
       date: "January 2026",
       link: "https://www.jingkeliang.site/Aqua-Diving-Trip-Agent/home.html",
     },

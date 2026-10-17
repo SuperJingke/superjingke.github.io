@@ -21,8 +21,8 @@ const About = () => (
                     <h4 className="name">Jingke Liang</h4>
                     <span className="profession">Full-stack Developer, SOC Analyst</span>
                     <div><i className="fa fa-map-marker fa-fw"></i> Guelph, ON, Canada</div>
-                    <div><i className="fa fa-university fa-fw"></i> Alum @ University of Toronto</div>
-                    <div><i className="fa fa-institution fa-fw"></i> University of Guelph, Fanshawe</div>
+                    <div><i className="fa fa-graduation-cap fa-fw"></i> Alum @ University of Toronto</div>
+                    <div><i className="fa fa-institution fa-fw"></i> University of Guelph </div>
                     
                   </div>
                   <div className="footer">
@@ -44,11 +44,11 @@ const About = () => (
                   <div className="main">
                     <h4 className="text-center mt-3">Greetings</h4>
                     <span>
-                      Hello! I’m Jingke. Nice to connect with you here! I have a strong passion for web development, cybersecurity, and AI technologies.
+                      Hello! I’m Jingke. Nice to connect with you here!
                     </span>
                     <h4 className="text-center">Experience</h4>
                     <span>
-                    Rebuilding my portfolio since 2020 with modern and smarter architecture for engaging, accessible, and AI-visible web experiences.
+                    Continuously evolving my portfolio since 2020, combining modern web technologies, accessible design, and AI-driven digital experiences.
                     </span>
                   </div>
                 </div>
@@ -84,18 +84,14 @@ const About = () => (
             <div className="skill-ara">
               {[
                 ["Python", 98],
-                ["React", 96],
                 ["Java", 95],
-                ["Web Development", 95],
+                ["Web Development", 97],
                 ["AI & LLMs", 90],
                 ["NLP & Machine Learning", 90],
                 ["UI/UX Design", 90],
-                ["Malware Analysis", 75],
-                ["Cloud Security", 75],
+                ["Malware Analysis", 85],
+                ["Cloud Security", 80],
                 ["SEO & Website Migration", 95],
-                ["Identity & Access Management (IAM)", 80],
-                ["Multi-Factor Authentication (MFA)", 85],
-                ["Role-Based Access Control (RBAC)", 85],
                 ["Access Control & Identity Governance", 78],
               ].map(([skill, percent]) => (
                 <div className="single-skill" key={skill}>

@@ -29,7 +29,7 @@ const Works = () => {
             <h4>CNE SkyRide</h4>
           </div>
           <div className="col-lg-4 grid-item">
-            <img className="img-fluid" src="/static/picture/18.jpg" alt="Telescope" />
+            <img className="img-fluid" src="/static/picture/18.jpg" alt="Telescope at University of Waterloo" />
             <h4>Lost in Stars</h4>
           </div>
           <div className="col-lg-4 grid-item">
